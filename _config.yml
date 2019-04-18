@@ -1,7 +1,7 @@
 # Site
 title:              ingoo
-bio:                '잉구스터디 명함 blog 입니다. <br> phone : 010-8955-7722 email : web722@gmail.com'
-description:        "Free 하게 HTML 및 개발 을 배우고싶어하는 분들은 클릭해주세요."
+bio:                '잉구스터디 입니다. <br> '
+description:        "자유롭게 HTML 및 개발 을 배우고 싶어하는 분들은 클릭해주세요."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -37,7 +37,7 @@ google:             web7722@gmail.com
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:               web7722@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         ingoos
