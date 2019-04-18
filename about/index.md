@@ -1,17 +1,21 @@
 ---
 layout: page
-title: 자기소개서
-tags: [about, Jekyll, theme, moon]
+title: 과외소개
+tags: [about, ingoo, 개발과외, 과외, html 과외, ]
 date: 2019-04-17
 feature: https://ingoos.github.io/assets/img/intro.jpeg
 comments: false
 ---
     
-<center><b>안녕하세요</b> Free 하게 교육을 받고 싶어하시는 분들!</center>
+<center><b>안녕하세요</b> 자유롭게 하게 교육을 받고 싶어하시는 분들!</center>
 
-### Smaple 
-* 어떻게 하면되나. 
-* 이렇게 하면되나.
+### 목차
+* 자기소개
+* 학습목표
+* 커리큘럼
+
+
+<!--
 
 
 ## Features
@@ -41,3 +45,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+-->
