@@ -3,6 +3,7 @@ layout: page
 title: 자기소개서
 tags: [about, Jekyll, theme, moon]
 date: 2019-04-17
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
 ---
     
