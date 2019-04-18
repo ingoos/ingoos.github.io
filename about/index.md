@@ -7,7 +7,7 @@ feature: https://ingoos.github.io/assets/img/intro.jpeg
 comments: false
 ---
     
-<center><h1><b>안녕하세요</b> 자유롭게 하게 교육을 받고 싶어하시는 분들!</h1></center>
+<h1><b>안녕하세요</b> 자유롭게 하게 교육을 받고 싶어하시는 분들!</h1>
 
 ### 목차
 * 자기소개
